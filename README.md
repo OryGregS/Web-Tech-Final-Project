@@ -2,7 +2,7 @@ CS 3500 Project - Restaurant Website
 Authors: Gregory Smith (OryGregS), Jonah Kubath (jkubath), Matthew Peter
 (mpeter97)
 
-This website mostly utilizes PHP and SQL. Built using bootstrap, the website will scale to any device.
+This website mostly utilizes PHP and SQL. Built using bootstrap, the website will scale to any device. Database design and implementation credit goes to Matthew Peter (mpeter97).
 
 Instructions to view the website:
 
